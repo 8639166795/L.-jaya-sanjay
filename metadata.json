@@ -1,0 +1,6 @@
+{
+  "name": "LJS Weather monitoring",
+  "description": "A weather forecasting application with real-time updates, hourly charts, and AI-powered recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
